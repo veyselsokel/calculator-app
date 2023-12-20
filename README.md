@@ -1,6 +1,4 @@
-Certainly! A good README file provides essential information about the project, how to set it up, and how to use it. Here's an example README file for your React Native calculator app:
 
----
 
 # React Native Calculator App
 
@@ -87,6 +85,4 @@ Contributions are welcome! If you find any issues or have improvements, feel fre
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
----
 
-Feel free to customize this README based on your project's specific details and requirements.
