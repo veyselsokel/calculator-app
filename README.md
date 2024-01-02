@@ -81,8 +81,4 @@ The app is structured into several components and styles:
 
 Contributions are welcome! If you find any issues or have improvements, feel free to open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 
